@@ -513,6 +513,10 @@ h3.my-profession
   max-width: 50%;
   margin-top: 30px;
 }
+.about .about-content .row{
+  display: flex;
+  justify-content: space-between;
+}
 .about .about-content h3.title
 {
   font-size: 24px;
